@@ -250,7 +250,7 @@ main, exiting
 ---
 
 # Output
-
+![Program Output](<Screenshot 2026-03-16 185315.png>)
 ---
 
 # Result
