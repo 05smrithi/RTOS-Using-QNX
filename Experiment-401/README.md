@@ -103,6 +103,7 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+![Program Output](<Screenshot 2026-03-16 190948.png>)
 ---
 
 # Result
