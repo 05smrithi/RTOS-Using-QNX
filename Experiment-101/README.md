@@ -54,9 +54,7 @@ int main(void) {
     return 0;
 }
 ```
-## Output
-![Output Image](exp1.png)
----
+
 
 ## Output
 ![Program Output](<Screenshot 2026-03-13 103611.png>)
