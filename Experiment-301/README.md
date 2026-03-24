@@ -249,6 +249,11 @@ MsgSend return status: 0
 
 # Output
 
+### Server Side
+![Program Output](image-1.png)
+
+### Client Side 
+![Program Output](image.png)
 ---
 
 # Result
