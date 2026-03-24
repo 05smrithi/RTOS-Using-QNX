@@ -10,12 +10,12 @@
 
 | Exp. No. | Date | Experiment Title | QR Code | Marks | Signature |
 |---------|------|------------------|--------|------|-----------|
-| 1 | 03/02/2026 | Experiment-101: “Hello World” Application on QNX: VMware Virtual Machine and Raspberry Pi.<br> <<paste your GitHub Repo link here>> |  |  |  |
-| 2 | 10/02/2026 | Experiment-201: Process Creation Using fork() and Parent–Child Execution in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 3 | 17/02/2026 | Experiment-202: Thread Coordination Using Condition Variables in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 4 | 24/02/2026 | Experiment-301: Message Passing between Client and Server in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 5 | 04/03/2026 | Experiment-401: Interrupt Handling with Counter in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
-| 6 | 12/03/2026 | Experiment-402: Repeating Timer using Pulse Messages in QNX <br> <<paste your GitHub Repo link here>> |  |  |  |
+| 1 | 03/02/2026 | Experiment-101: “Hello World” Application on QNX: VMware Virtual Machine and Raspberry Pi.<br> <<https://github.com/05smrithi/RTOS-Using-QNX/tree/main/Experiment-101>> |![Program QR](image.png)  |  |  |
+| 2 | 10/02/2026 | Experiment-201: Process Creation Using fork() and Parent–Child Execution in QNX <br> <<https://github.com/05smrithi/RTOS-Using-QNX/tree/main/Experiment-201>> | ![Program QR](image-1.png) |  |  |
+| 3 | 17/02/2026 | Experiment-202: Thread Coordination Using Condition Variables in QNX <br> <<https://github.com/05smrithi/RTOS-Using-QNX/tree/main/Experiment-202>> | ![Program QR](image-2.png) |  |  |
+| 4 | 24/02/2026 | Experiment-301: Message Passing between Client and Server in QNX <br> <<https://github.com/05smrithi/RTOS-Using-QNX/tree/main/Experiment-301>> | ![Program QR](image-3.png) |  |  |
+| 5 | 04/03/2026 | Experiment-401: Interrupt Handling with Counter in QNX <br> <<https://github.com/05smrithi/RTOS-Using-QNX/tree/main/Experiment-401>> |![Program QR](image-4.png)  |  |  |
+| 6 | 12/03/2026 | Experiment-402: Repeating Timer using Pulse Messages in QNX <br> <<https://github.com/05smrithi/RTOS-Using-QNX/tree/main/Experiment-402>> |![Program QR](image-5.png)  |  |  |
 
 ---
 
